@@ -12,4 +12,5 @@ Além disso utilizamos o ResponsiveVoice para que tenha uma fala e seja mais ace
 
 ## informações Adicionais
 Projeto está aberto para commits e melhorias.
+Além disso, está disponível para utilização pelo Vercel: [Link do Jogo](https://jogo-numero-secreto-alpha-seven.vercel.app)
 Obrigado!
